@@ -12,4 +12,4 @@ The Two Questions to Ask Yourself Before You Go to Bed
 
 ***A growth mindset is about the love of learning in all aspects of life***
 
-If you want to read more about a growth mindet here is an [Awesome Link] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+If you want to read more about a growth mindet here is an [Awesome Link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)

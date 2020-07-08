@@ -18,4 +18,4 @@ If you want to read more about a growth mindet here is an [Awesome Link](https:/
 ***Hello. I am Felicia Walcott. I have been an ESL teacher tutor for seven years and I am looking for a career change. I'm glad to be here at Code Fellows. 
 I can't wait for what happens next.***
 
-[Take a look at my portfolio](
+[Take a look at my portfolio](https://github.com/fwalcott?tab=projects)

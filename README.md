@@ -1,5 +1,5 @@
 
-#What a Growth Mindset Means to Me#
+# What a Growth Mindset Means to Me #
 
 To me, a growth mindset means that in your mind a spirit nothing is **fixed, immutable, or inherited.** You have the ability to *grow and change* from working hard, not procrastinating, and learning every day. This isn't an easy way to live. It is much easier to stay in your comfort zone, not tackling difficult problems. A growth mindset allows you to embraces challenges, learn from your mistakes, and positively take criticism when warranted. 
 
